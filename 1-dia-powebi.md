@@ -34,3 +34,10 @@ Mobille
 
 - visualização
 - Gratuito
+
+## Onde encontrar os dados
+
+Onde encontrar os dataSets : kaggle 
+
+Datasets: são dados
+
